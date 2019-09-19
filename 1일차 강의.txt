@@ -1,0 +1,5 @@
+conda update -n base conda
+conda update --all
+
+conda install -c conda-forge jupyter_contrib_nbexten
+conda install tensorflow
